@@ -1,3 +1,3 @@
 
-# [FaceBook Landing](https://github.com/huaxing-w/fullStackProject/tree/main/projects/FaceBook%20Landing)
-<img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/FaceBook%20Landing/others/facebook%20landing%20page.png" height="240px" width="480px">
+# [Hang Man](https://github.com/huaxing-w/small-games/tree/main/games/hangman)
+<img style="float: left;" src="https://github.com/huaxing-w/small-games/blob/main/games/hangman/others/hangman.gif" height="480px" width="300px">
